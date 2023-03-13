@@ -12,3 +12,6 @@ Introdução à Inteligência Artificial
 [guiao-sobre-pesquisa-Torrakanor611](https://github.com/detiuaveiro/guiao-sobre-pesquisa-Torrakanor611)
 
 [projecto-sokoban](trabalho-de-grupo-sokoban-93320_93240)
+
+Projecto desenvolvido com:
+[Maria Inês Rocha](https://github.com/Mariainesrocha)
